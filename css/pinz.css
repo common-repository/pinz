@@ -1,0 +1,14 @@
+/* Global CSS */
+label[for=pinz_it]:before{
+    color: #888;
+    padding-right: 5px;
+}
+
+.pinz-select {
+    margin-top: 5px;
+    width: 100%;
+}
+
+.pinz_admin_loader #welcome-panel.welcome-panel .welcome-panel-close::before {
+    content: '';
+}
